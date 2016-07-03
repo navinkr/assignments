@@ -2,7 +2,20 @@ As part of assignment "Create a toy model of environments" i have made a predict
 
 Root Directory = RainFallPrediction
 
-Main file =Assignment_rainfall_prediction.ipynb
+Main file =Assignment_rainfall_prediction.ipynb  
+
+https://github.com/navinkr/assignments/blob/master/RainFallPrediction/Assignment_rainfall_prediction.ipynb
+
+In order to execute python file plese specify value of following paths . Actual path has been removed from code for security reasons.
+pipe_del_file=""
+output_model_file=""
+training_set=""
+test_set=""
+future_set=""
+path_Canbera =r''
+path_Melbourne =r''
+path_Queensland =r''
+
 
 Data Direcotries
 
